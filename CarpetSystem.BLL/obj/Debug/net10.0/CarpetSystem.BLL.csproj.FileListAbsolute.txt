@@ -1,0 +1,15 @@
+F:\.NetCore\CarpetSystem\CarpetSystem.BLL\bin\Debug\net10.0\CarpetSystem.BLL.deps.json
+F:\.NetCore\CarpetSystem\CarpetSystem.BLL\bin\Debug\net10.0\CarpetSystem.BLL.dll
+F:\.NetCore\CarpetSystem\CarpetSystem.BLL\bin\Debug\net10.0\CarpetSystem.BLL.pdb
+F:\.NetCore\CarpetSystem\CarpetSystem.BLL\bin\Debug\net10.0\CarpetSystem.DAL.dll
+F:\.NetCore\CarpetSystem\CarpetSystem.BLL\bin\Debug\net10.0\CarpetSystem.DAL.pdb
+F:\.NetCore\CarpetSystem\CarpetSystem.BLL\obj\Debug\net10.0\CarpetSystem.BLL.csproj.AssemblyReference.cache
+F:\.NetCore\CarpetSystem\CarpetSystem.BLL\obj\Debug\net10.0\CarpetSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NetCore\CarpetSystem\CarpetSystem.BLL\obj\Debug\net10.0\CarpetSystem.BLL.AssemblyInfoInputs.cache
+F:\.NetCore\CarpetSystem\CarpetSystem.BLL\obj\Debug\net10.0\CarpetSystem.BLL.AssemblyInfo.cs
+F:\.NetCore\CarpetSystem\CarpetSystem.BLL\obj\Debug\net10.0\CarpetSystem.BLL.csproj.CoreCompileInputs.cache
+F:\.NetCore\CarpetSystem\CarpetSystem.BLL\obj\Debug\net10.0\CarpetSy.A766CEB2.Up2Date
+F:\.NetCore\CarpetSystem\CarpetSystem.BLL\obj\Debug\net10.0\CarpetSystem.BLL.dll
+F:\.NetCore\CarpetSystem\CarpetSystem.BLL\obj\Debug\net10.0\refint\CarpetSystem.BLL.dll
+F:\.NetCore\CarpetSystem\CarpetSystem.BLL\obj\Debug\net10.0\CarpetSystem.BLL.pdb
+F:\.NetCore\CarpetSystem\CarpetSystem.BLL\obj\Debug\net10.0\ref\CarpetSystem.BLL.dll

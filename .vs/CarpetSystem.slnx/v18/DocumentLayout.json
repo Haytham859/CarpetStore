@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\.NetCore\\CarpetSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\.NetCore\\CarpetSystem\\CarpetSystem.DAL\\Migrations\\20260419155349_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarpetSystem.DAL\\Migrations\\20260419155349_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B66B5F-1481-23CE-5E9B-F6AFF26BEAD7}|CarpetSystem.DAL\\CarpetSystem.DAL.csproj|f:\\.netcore\\carpetsystem\\carpetsystem.dal\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B66B5F-1481-23CE-5E9B-F6AFF26BEAD7}|CarpetSystem.DAL\\CarpetSystem.DAL.csproj|solutionrelative:carpetsystem.dal\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B66B5F-1481-23CE-5E9B-F6AFF26BEAD7}|CarpetSystem.DAL\\CarpetSystem.DAL.csproj|f:\\.netcore\\carpetsystem\\carpetsystem.dal\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B66B5F-1481-23CE-5E9B-F6AFF26BEAD7}|CarpetSystem.DAL\\CarpetSystem.DAL.csproj|solutionrelative:carpetsystem.dal\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5BFE68-F9CE-0CFE-BB83-06F11ED0677C}|CarpetSystem.PL\\CarpetSystem.PL.csproj|f:\\.netcore\\carpetsystem\\carpetsystem.pl\\carpetsystem.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F5BFE68-F9CE-0CFE-BB83-06F11ED0677C}|CarpetSystem.PL\\CarpetSystem.PL.csproj|solutionrelative:carpetsystem.pl\\carpetsystem.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B66B5F-1481-23CE-5E9B-F6AFF26BEAD7}|CarpetSystem.DAL\\CarpetSystem.DAL.csproj|f:\\.netcore\\carpetsystem\\carpetsystem.dal\\modelconfiguration\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B66B5F-1481-23CE-5E9B-F6AFF26BEAD7}|CarpetSystem.DAL\\CarpetSystem.DAL.csproj|solutionrelative:carpetsystem.dal\\modelconfiguration\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B66B5F-1481-23CE-5E9B-F6AFF26BEAD7}|CarpetSystem.DAL\\CarpetSystem.DAL.csproj|f:\\.netcore\\carpetsystem\\carpetsystem.dal\\applictiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B66B5F-1481-23CE-5E9B-F6AFF26BEAD7}|CarpetSystem.DAL\\CarpetSystem.DAL.csproj|solutionrelative:carpetsystem.dal\\applictiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B66B5F-1481-23CE-5E9B-F6AFF26BEAD7}|CarpetSystem.DAL\\CarpetSystem.DAL.csproj|f:\\.netcore\\carpetsystem\\carpetsystem.dal\\modelconfiguration\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B66B5F-1481-23CE-5E9B-F6AFF26BEAD7}|CarpetSystem.DAL\\CarpetSystem.DAL.csproj|solutionrelative:carpetsystem.dal\\modelconfiguration\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5BFE68-F9CE-0CFE-BB83-06F11ED0677C}|CarpetSystem.PL\\CarpetSystem.PL.csproj|f:\\.netcore\\carpetsystem\\carpetsystem.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5BFE68-F9CE-0CFE-BB83-06F11ED0677C}|CarpetSystem.PL\\CarpetSystem.PL.csproj|solutionrelative:carpetsystem.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5BFE68-F9CE-0CFE-BB83-06F11ED0677C}|CarpetSystem.PL\\CarpetSystem.PL.csproj|f:\\.netcore\\carpetsystem\\carpetsystem.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F5BFE68-F9CE-0CFE-BB83-06F11ED0677C}|CarpetSystem.PL\\CarpetSystem.PL.csproj|solutionrelative:carpetsystem.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5BFE68-F9CE-0CFE-BB83-06F11ED0677C}|CarpetSystem.PL\\CarpetSystem.PL.csproj|f:\\.netcore\\carpetsystem\\carpetsystem.pl\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5BFE68-F9CE-0CFE-BB83-06F11ED0677C}|CarpetSystem.PL\\CarpetSystem.PL.csproj|solutionrelative:carpetsystem.pl\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B66B5F-1481-23CE-5E9B-F6AFF26BEAD7}|CarpetSystem.DAL\\CarpetSystem.DAL.csproj|f:\\.netcore\\carpetsystem\\carpetsystem.dal\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0B66B5F-1481-23CE-5E9B-F6AFF26BEAD7}|CarpetSystem.DAL\\CarpetSystem.DAL.csproj|solutionrelative:carpetsystem.dal\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B66B5F-1481-23CE-5E9B-F6AFF26BEAD7}|CarpetSystem.DAL\\CarpetSystem.DAL.csproj|f:\\.netcore\\carpetsystem\\carpetsystem.dal\\carpetsystem.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0B66B5F-1481-23CE-5E9B-F6AFF26BEAD7}|CarpetSystem.DAL\\CarpetSystem.DAL.csproj|solutionrelative:carpetsystem.dal\\carpetsystem.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260419155349_init.cs",
+              "DocumentMoniker": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.DAL\\Migrations\\20260419155349_init.cs",
+              "RelativeDocumentMoniker": "CarpetSystem.DAL\\Migrations\\20260419155349_init.cs",
+              "ToolTip": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.DAL\\Migrations\\20260419155349_init.cs",
+              "RelativeToolTip": "CarpetSystem.DAL\\Migrations\\20260419155349_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:53:50.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryConfig.cs",
+              "DocumentMoniker": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.DAL\\ModelConfiguration\\CategoryConfig.cs",
+              "RelativeDocumentMoniker": "CarpetSystem.DAL\\ModelConfiguration\\CategoryConfig.cs",
+              "ToolTip": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.DAL\\ModelConfiguration\\CategoryConfig.cs",
+              "RelativeToolTip": "CarpetSystem.DAL\\ModelConfiguration\\CategoryConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:43:39.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "CarpetSystem.PL\\appsettings.json",
+              "ToolTip": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.PL\\appsettings.json",
+              "RelativeToolTip": "CarpetSystem.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T15:33:27.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.PL\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "CarpetSystem.PL\\GlobalUsing.cs",
+              "ToolTip": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.PL\\GlobalUsing.cs",
+              "RelativeToolTip": "CarpetSystem.PL\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:13:46.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductConfig.cs",
+              "DocumentMoniker": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.DAL\\ModelConfiguration\\ProductConfig.cs",
+              "RelativeDocumentMoniker": "CarpetSystem.DAL\\ModelConfiguration\\ProductConfig.cs",
+              "ToolTip": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.DAL\\ModelConfiguration\\ProductConfig.cs",
+              "RelativeToolTip": "CarpetSystem.DAL\\ModelConfiguration\\ProductConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:03:39.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.DAL\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "CarpetSystem.DAL\\Model\\Category.cs",
+              "ToolTip": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.DAL\\Model\\Category.cs",
+              "RelativeToolTip": "CarpetSystem.DAL\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:01:28.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.DAL\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "CarpetSystem.DAL\\GlobalUsing.cs",
+              "ToolTip": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.DAL\\GlobalUsing.cs",
+              "RelativeToolTip": "CarpetSystem.DAL\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:54:10.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplictionDbContext.cs",
+              "DocumentMoniker": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.DAL\\ApplictionDbContext.cs",
+              "RelativeDocumentMoniker": "CarpetSystem.DAL\\ApplictionDbContext.cs",
+              "ToolTip": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.DAL\\ApplictionDbContext.cs",
+              "RelativeToolTip": "CarpetSystem.DAL\\ApplictionDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:51:06.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarpetSystem.DAL",
+              "DocumentMoniker": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.DAL\\CarpetSystem.DAL.csproj",
+              "RelativeDocumentMoniker": "CarpetSystem.DAL\\CarpetSystem.DAL.csproj",
+              "ToolTip": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.DAL\\CarpetSystem.DAL.csproj",
+              "RelativeToolTip": "CarpetSystem.DAL\\CarpetSystem.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-19T14:48:54.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.DAL\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "CarpetSystem.DAL\\Model\\Product.cs",
+              "ToolTip": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.DAL\\Model\\Product.cs",
+              "RelativeToolTip": "CarpetSystem.DAL\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:49:17.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.PL\\Program.cs",
+              "RelativeDocumentMoniker": "CarpetSystem.PL\\Program.cs",
+              "ToolTip": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.PL\\Program.cs",
+              "RelativeToolTip": "CarpetSystem.PL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T14:45:51.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarpetSystem.PL",
+              "DocumentMoniker": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.PL\\CarpetSystem.PL.csproj",
+              "RelativeDocumentMoniker": "CarpetSystem.PL\\CarpetSystem.PL.csproj",
+              "ToolTip": "F:\\.NetCore\\CarpetSystem\\CarpetSystem.PL\\CarpetSystem.PL.csproj",
+              "RelativeToolTip": "CarpetSystem.PL\\CarpetSystem.PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-19T14:45:45.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

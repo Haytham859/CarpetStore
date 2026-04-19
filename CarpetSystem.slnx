@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CarpetSystem.BLL/CarpetSystem.BLL.csproj" />
+  <Project Path="CarpetSystem.DAL/CarpetSystem.DAL.csproj" />
+  <Project Path="CarpetSystem.PL/CarpetSystem.PL.csproj" />
+</Solution>

@@ -1,0 +1,14 @@
+F:\.NetCore\CarpetSystem\CarpetSystem.DAL\bin\Debug\net10.0\CarpetSystem.DAL.deps.json
+F:\.NetCore\CarpetSystem\CarpetSystem.DAL\bin\Debug\net10.0\CarpetSystem.DAL.runtimeconfig.json
+F:\.NetCore\CarpetSystem\CarpetSystem.DAL\bin\Debug\net10.0\CarpetSystem.DAL.dll
+F:\.NetCore\CarpetSystem\CarpetSystem.DAL\bin\Debug\net10.0\CarpetSystem.DAL.pdb
+F:\.NetCore\CarpetSystem\CarpetSystem.DAL\obj\Debug\net10.0\CarpetSystem.DAL.csproj.AssemblyReference.cache
+F:\.NetCore\CarpetSystem\CarpetSystem.DAL\obj\Debug\net10.0\CarpetSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NetCore\CarpetSystem\CarpetSystem.DAL\obj\Debug\net10.0\CarpetSystem.DAL.AssemblyInfoInputs.cache
+F:\.NetCore\CarpetSystem\CarpetSystem.DAL\obj\Debug\net10.0\CarpetSystem.DAL.AssemblyInfo.cs
+F:\.NetCore\CarpetSystem\CarpetSystem.DAL\obj\Debug\net10.0\CarpetSystem.DAL.csproj.CoreCompileInputs.cache
+F:\.NetCore\CarpetSystem\CarpetSystem.DAL\obj\Debug\net10.0\CarpetSystem.DAL.dll
+F:\.NetCore\CarpetSystem\CarpetSystem.DAL\obj\Debug\net10.0\refint\CarpetSystem.DAL.dll
+F:\.NetCore\CarpetSystem\CarpetSystem.DAL\obj\Debug\net10.0\CarpetSystem.DAL.pdb
+F:\.NetCore\CarpetSystem\CarpetSystem.DAL\obj\Debug\net10.0\CarpetSystem.DAL.genruntimeconfig.cache
+F:\.NetCore\CarpetSystem\CarpetSystem.DAL\obj\Debug\net10.0\ref\CarpetSystem.DAL.dll
