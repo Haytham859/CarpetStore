@@ -14,5 +14,9 @@ namespace CarpetSystem.DAL
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
 
         }
+
+        public DbSet<Category>Categories{ get; set; }
+        public DbSet<Product> Products { get; set; }
+
     }
 }

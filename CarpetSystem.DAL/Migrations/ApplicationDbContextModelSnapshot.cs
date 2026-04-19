@@ -36,7 +36,7 @@ namespace CarpetSystem.DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Category");
+                    b.ToTable("Categories");
                 });
 
             modelBuilder.Entity("CarpetSystem.DAL.Model.Product", b =>
@@ -77,7 +77,7 @@ namespace CarpetSystem.DAL.Migrations
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("Product");
+                    b.ToTable("Products");
                 });
 
             modelBuilder.Entity("CarpetSystem.DAL.Model.Product", b =>

@@ -12,3 +12,4 @@ F:\.NetCore\CarpetSystem\CarpetSystem.DAL\obj\Debug\net10.0\refint\CarpetSystem.
 F:\.NetCore\CarpetSystem\CarpetSystem.DAL\obj\Debug\net10.0\CarpetSystem.DAL.pdb
 F:\.NetCore\CarpetSystem\CarpetSystem.DAL\obj\Debug\net10.0\CarpetSystem.DAL.genruntimeconfig.cache
 F:\.NetCore\CarpetSystem\CarpetSystem.DAL\obj\Debug\net10.0\ref\CarpetSystem.DAL.dll
+F:\.NetCore\CarpetSystem\CarpetSystem.DAL\obj\Debug\net10.0\CarpetSystem.DAL.sourcelink.json
