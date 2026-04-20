@@ -13,3 +13,4 @@ F:\.NetCore\CarpetSystem\CarpetSystem.BLL\obj\Debug\net10.0\CarpetSystem.BLL.dll
 F:\.NetCore\CarpetSystem\CarpetSystem.BLL\obj\Debug\net10.0\refint\CarpetSystem.BLL.dll
 F:\.NetCore\CarpetSystem\CarpetSystem.BLL\obj\Debug\net10.0\CarpetSystem.BLL.pdb
 F:\.NetCore\CarpetSystem\CarpetSystem.BLL\obj\Debug\net10.0\ref\CarpetSystem.BLL.dll
+F:\.NetCore\CarpetSystem\CarpetSystem.BLL\obj\Debug\net10.0\CarpetSystem.BLL.sourcelink.json
